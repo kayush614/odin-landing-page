@@ -1,3 +1,9 @@
+body{
+    margin: 0;
+}
+
+
+
 .top{
     background-color: #1F2937;
     color: #F9FAF8;
@@ -203,3 +209,11 @@
 
    
 }
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 25px;
+    text-align: center;
+    font-family: roboto;
+    font-size: 20px;
